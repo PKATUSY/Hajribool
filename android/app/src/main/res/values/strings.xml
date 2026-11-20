@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hajiri Book</string>
+    <string name="app_subtitle">SMART ATTENDANCE SYSTEM</string>
+    <string name="welcome_message">Welcome, %1$s</string>
+    <string name="role_admin">Admin</string>
+    <string name="role_teacher">Teacher</string>
+    <string name="role_admin_desc">Full Access &amp; Control</string>
+    <string name="role_teacher_desc">Take Attendance &amp; Manage Class</string>
+    <string name="login_title">Login to Your Account</string>
+    <string name="mobile_or_username">Mobile / Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_button">Login</string>
+    <string name="login_with_qr">Login with QR</string>
+    <string name="start_scanning">Start Scanning</string>
+    <string name="face_attendance">Face Attendance</string>
+    <string name="identify_mark_automatically">Identify &amp; Mark Automatically</string>
+    <string name="total_students">Total</string>
+    <string name="present_students">Present</string>
+    <string name="absent_students">Absent</string>
+    <string name="attendance_percentage">Attendance</string>
+</resources>
